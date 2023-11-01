@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 from CreateDatasetClass import CreateDataset
-from CreateDatasetClassDiabetes import CreateDatasetDiabetes
+from FederatedLearningHeartDisease.backup_old.CreateDatasetClassDiabetes import CreateDatasetDiabetes
 
 
 # class for loading and managing dataset

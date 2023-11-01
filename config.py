@@ -8,7 +8,7 @@ class Config():
     @staticmethod
     def get_args():
         parser = argparse.ArgumentParser(
-            description="2023 FSU YSP Heart Disease Data Imputation Model")  # create ArgumentParser
+            description="2023 FSU YSP Heart Disease Diagnosis Model")  # create ArgumentParser
 
         ##### Format of add_argument #####
         # name ==> referenced in terminal to input values (e.g. --nclients 50), no spaces allowed
